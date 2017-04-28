@@ -1,0 +1,179 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "MyMusic/MusicasTableViewController.swift"
+            timestampString = "515082841.060919"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "47"
+            endingLineNumber = "47"
+            landmarkName = "tableView(_:cellForRowAt:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "MyMusic/DestaqueViewController.swift"
+            timestampString = "515079483.441944"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "11"
+            endingLineNumber = "11"
+            landmarkName = "DestaqueViewController"
+            landmarkType = "3">
+            <Locations>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "MyMusic.DestaqueViewController.init (nibName : Swift.Optional&lt;Swift.String&gt;, bundle : Swift.Optional&lt;__ObjC.Bundle&gt;) -&gt; MyMusic.DestaqueViewController"
+                  moduleName = "MyMusic"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Volumes/student/Users/student/Documents/Irvayne%20Matheus%20-%20Turma%20Manha/MyMusic/MyMusic/DestaqueViewController.swift"
+                  timestampString = "515079670.364043"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "14"
+                  endingLineNumber = "14"
+                  offsetFromSymbolStart = "70">
+               </Location>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "MyMusic.DestaqueViewController.__allocating_init (nibName : Swift.Optional&lt;Swift.String&gt;, bundle : Swift.Optional&lt;__ObjC.Bundle&gt;) -&gt; MyMusic.DestaqueViewController"
+                  moduleName = "MyMusic"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Volumes/student/Users/student/Documents/Irvayne%20Matheus%20-%20Turma%20Manha/MyMusic/MyMusic/DestaqueViewController.swift"
+                  timestampString = "515079670.3667"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "0"
+                  endingLineNumber = "0"
+                  offsetFromSymbolStart = "23">
+               </Location>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "MyMusic.DestaqueViewController.__allocating_init (coder : __ObjC.NSCoder) -&gt; Swift.Optional&lt;MyMusic.DestaqueViewController&gt;"
+                  moduleName = "MyMusic"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Volumes/student/Users/student/Documents/Irvayne%20Matheus%20-%20Turma%20Manha/MyMusic/MyMusic/DestaqueViewController.swift"
+                  timestampString = "515079670.36915"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "0"
+                  endingLineNumber = "0"
+                  offsetFromSymbolStart = "4">
+               </Location>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "MyMusic.DestaqueViewController.init (coder : __ObjC.NSCoder) -&gt; Swift.Optional&lt;MyMusic.DestaqueViewController&gt;"
+                  moduleName = "MyMusic"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Volumes/student/Users/student/Documents/Irvayne%20Matheus%20-%20Turma%20Manha/MyMusic/MyMusic/DestaqueViewController.swift"
+                  timestampString = "515079670.371479"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "14"
+                  endingLineNumber = "14"
+                  offsetFromSymbolStart = "31">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "MyMusic/DetalheViewController.swift"
+            timestampString = "515080700.384105"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "11"
+            endingLineNumber = "11"
+            landmarkName = "DetalheViewController"
+            landmarkType = "3">
+            <Locations>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "MyMusic.DetalheViewController.init (nibName : Swift.Optional&lt;Swift.String&gt;, bundle : Swift.Optional&lt;__ObjC.Bundle&gt;) -&gt; MyMusic.DetalheViewController"
+                  moduleName = "MyMusic"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Volumes/student/Users/student/Documents/Irvayne%20Matheus%20-%20Turma%20Manha/MyMusic/MyMusic/DetalheViewController.swift"
+                  timestampString = "515081048.151717"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "13"
+                  endingLineNumber = "13"
+                  offsetFromSymbolStart = "70">
+               </Location>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "MyMusic.DetalheViewController.__allocating_init (nibName : Swift.Optional&lt;Swift.String&gt;, bundle : Swift.Optional&lt;__ObjC.Bundle&gt;) -&gt; MyMusic.DetalheViewController"
+                  moduleName = "MyMusic"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Volumes/student/Users/student/Documents/Irvayne%20Matheus%20-%20Turma%20Manha/MyMusic/MyMusic/DetalheViewController.swift"
+                  timestampString = "515081048.15411"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "0"
+                  endingLineNumber = "0"
+                  offsetFromSymbolStart = "23">
+               </Location>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "MyMusic.DetalheViewController.__allocating_init (coder : __ObjC.NSCoder) -&gt; Swift.Optional&lt;MyMusic.DetalheViewController&gt;"
+                  moduleName = "MyMusic"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Volumes/student/Users/student/Documents/Irvayne%20Matheus%20-%20Turma%20Manha/MyMusic/MyMusic/DetalheViewController.swift"
+                  timestampString = "515081048.156613"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "0"
+                  endingLineNumber = "0"
+                  offsetFromSymbolStart = "4">
+               </Location>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "MyMusic.DetalheViewController.init (coder : __ObjC.NSCoder) -&gt; Swift.Optional&lt;MyMusic.DetalheViewController&gt;"
+                  moduleName = "MyMusic"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Volumes/student/Users/student/Documents/Irvayne%20Matheus%20-%20Turma%20Manha/MyMusic/MyMusic/DetalheViewController.swift"
+                  timestampString = "515081048.159421"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "13"
+                  endingLineNumber = "13"
+                  offsetFromSymbolStart = "31">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
